@@ -25,15 +25,19 @@ Effective communication is a fundamental human right and an essential component 
 ### Metric of Success
 
 * Recognition Accuracy
+
 Achieve a recognition accuracy rate of at least 90%, measured by the percentage of correctly identified fingerspelled words out of the total fingerspelled words processed by the system.
 
  * Response Time
+
 Ensure a response time of less than 20 seconds for recognizing and translating fingerspelling gestures into text or speech in real time.
 
 * Error Rate
+
 Maintaing a low error rate, with recognition errors accounting for less than 5% of total interactions with the system.
 
 * Integration Success
+  
 Integrate the system succesfully into a website, ensuring seamless functionality.
 
 ### Objectives
