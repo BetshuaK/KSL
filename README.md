@@ -22,7 +22,19 @@ In a world where effective communication is fundamental, individuals with disabi
 
 Effective communication is a fundamental human right and an essential component of social inclusion and participation. However individuals with hearing impairments who rely on fingerspelling as their primary means of communication face often significant communication barriers.The problem at hand is limited accessibility and inclusivity faced by individuals with hearing impairments who rely on fingerspelling.Current communication solutions do not adequately facilitate effective communication between individuals proficient in this visual-gesture language. The Ministry of Public Services,Gender, Senior Citizens Affairs and Special Program and Rehabilitative Services Division have commissioned this project to develop and implement a real-time fingerspelling detection system that can bridge the communication gap between individuals with hearing impairments to communicate effectively with the government officials,access government services, education, and employment opportunities and promote their overall social inclusion and well-being.
 
-### 
+### Metric of Success
+
+* Recognition Accuracy
+Achieve a recognition accuracy rate of at least 90%, measured by the percentage of correctly identified fingerspelled words out of the total fingerspelled words processed by the system.
+
+ * Response Time
+Ensure a response time of less than 20 seconds for recognizing and translating fingerspelling gestures into text or speech in real time.
+
+*Error Rate
+Maintaing a low error rate, with recognition errors accounting for less than 5% of total interactions with the system.
+
+*Integration Success
+Integrate the system succesfully into a website, ensuring seamless functionality.
 
 ### Objectives
 
