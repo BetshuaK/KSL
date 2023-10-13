@@ -68,3 +68,4 @@ Develop a website to intergrate the system to maximize its reach and impact.
 
 ## 2. Data Understanding
 
+This dataset, comprising diverse fingerspelling gestures by both genders, is crucial for the success of our recognition system. It captures real-world signing practices, incorporating varied styles, handshapes, and gender-specific differences. Equal representation from males and females acknowledges potential articulation variations, ensuring our system accommodates diverse signing patterns. The dataset also includes variations in lighting and backgrounds, enhancing the system's robustness. This meticulously collected data forms the foundation for developing a highly accurate, inclusive, and adaptable real-time fingerspelling recognition system, addressing communication barriers for individuals with hearing impairments.
